@@ -136,6 +136,13 @@ After the job (which may take 2-3 minutes to run), navigate to your `handsonfina
 * `s3://handsonfinalprocessed/Athena Results/rating_distribution/`
 
 You will also find the complete, cleaned dataset in `s3://handsonfinalprocessed/processed-data/`.
+Project screenshots and output artifacts are available in the local `outputs/` folder.
+![Athena Results](outputs/Screenshot-Athena-Results.png)
+![Landing Bucket Upload](outputs/Screenshot-handsonfinallanding13.png)
+![AWS Glue Job](outputs/Screenshot-AWS-Glue.png)
+![S3 Buckets](outputs/Screenshot-S3-Buckets.png)
+![Lambda Overview](outputs/Screenshot-of-Lambda.png)
+![Lambda Function](outputs/Screenshot-Lambda-Function.png)
 
 ---
 ## 🧹 Cleanup
